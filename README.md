@@ -1,2 +1,2 @@
 # Web_GroupProject
-https://LLeHung.github.io/Web_GroupProject/
+https://github.com/LLeHung/Web_GroupProject/
